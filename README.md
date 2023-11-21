@@ -20,6 +20,8 @@ The LCD screen uses a parallel interface and mine already came with the I2C back
 ## Circuit Diagram
 ![pigpio_lcdscreen_coloured drawio](https://github.com/TommyAK/pilcdtools/assets/35144580/a3492e49-721e-4ece-bb16-35d9b4ad655b)
 
+[Click here to open larger image](https://i.ibb.co/fvmPR42/pigpio-lcdscreen-coloured-drawio.png)
+
 ## Software
 **PyCharm Professional**
 
@@ -41,6 +43,7 @@ Python Modules:
 - [art](https://pypi.org/project/art/)
 
 ## Configuration
+
 
 
 
